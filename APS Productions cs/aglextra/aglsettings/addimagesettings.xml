@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="addimage" version="1.0">
+	<attributes>
+		<attribute name="addimageversion" value="1"/>
+		<attribute name="askfordestfolder" value="no"/>
+		<attribute name="copyorigimage" value="no"/>
+		<attribute name="keeplivelink" value="yes"/>
+		<attribute name="origimagefolder" value="/original_images"/>
+		<attribute name="webimagefolder" value="/web_images"/>
+	</attributes>
+</sitesettings>

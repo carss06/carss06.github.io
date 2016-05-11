@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="siteServer" version="1.0">
+	<attributes>
+		<attribute name="ActiveServer" value="Server"/>
+		<attribute name="ActiveServerU" value="Server"/>
+		<attribute name="MaxServerID" value="1"/>
+		<list name="SiteServerList">
+			<item>
+				<attribute name="id" value="1"/>
+				<attribute name="name" value="Server"/>
+				<attribute name="nickname" value="Server"/>
+				<attribute name="optionPassive" value="YES"/>
+				<attribute name="optionProxyPublish" value="NO"/>
+				<list name="options">
+					<item>
+						<attribute name="optionsKey" value="ALIVE"/>
+						<attribute name="optionsValue" value="NO"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="FRAMEWORK"/>
+						<attribute name="optionsValue" value="libcurl"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="ISO"/>
+						<attribute name="optionsValue" value="NO"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="PASSIVE"/>
+						<attribute name="optionsValue" value="YES"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="PROXY"/>
+						<attribute name="optionsValue" value="NO"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="PUBLICKEYFILE"/>
+						<attribute name="optionsValue" value=""/>
+						<attribute name="optionsValue_U" value=""/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="PUBLICKEYPASSWORD"/>
+						<attribute name="optionsValue" value=""/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="RESOLVE"/>
+						<attribute name="optionsValue" value="YES"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="SECURITY"/>
+						<attribute name="optionsValue" value="None"/>
+					</item>
+					<item>
+						<attribute name="optionsKey" value="USEPUBLICKEY"/>
+						<attribute name="optionsValue" value="NO"/>
+					</item>
+				</list>
+				<attribute name="password" value=""/>
+				<attribute name="savePassword" value="no"/>
+				<attribute name="targetUrl" value="ftp://www.apsvideo.co.uk/"/>
+				<attribute name="url" value="ftp://www.apsvideo.co.uk/"/>
+				<attribute name="urlServerAbs" value="no"/>
+				<attribute name="user" value=""/>
+				<attribute name="username" value=""/>
+				<attribute name="version" value="10"/>
+				<attribute name="webUrl" value=""/>
+			</item>
+		</list>
+		<attribute name="data-version" value="1"/>
+	</attributes>
+</sitesettings>

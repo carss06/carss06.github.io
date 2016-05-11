@@ -1,0 +1,181 @@
+body {
+	background-color:#666;
+	padding:0 0 20px 0;
+	margin:0;
+	font-family: Helvetica, Arial, sans-serif
+	}
+
+#container  {
+	background-image: url(bg.jpg);
+	background-position: left top;
+	padding: 0 0 20px;
+	margin:0;
+	position: absolute;
+	z-index:1;
+	top: 30px;
+	left: 10%;
+	width: 790px;
+	border: solid 8px #fff
+	}
+
+
+#content{
+	margin-top: 165px 
+	}
+
+img{
+	display:block;
+	}
+
+a{
+	font-weight:bold;
+	color:#000;
+	text-decoration:none
+	}
+
+#masthead{
+	position:absolute;
+	top:80px;
+	left:10%;
+	width:798px;
+	height:86px;
+	margin:0;
+	padding:0;
+	white-space: nowrap;
+	z-index:2
+	}
+
+#logo{
+	float:left;
+	width:462px;
+	height:86px;
+	}
+
+#menucap {
+	float:left;
+	width:176px;
+	height:86px;
+	}
+
+#menu{
+	margin:0 0 0 638px;
+	height:76px;
+	width:160px;
+	color:#000;
+	background-color:#fff;
+	text-transform:uppercase;
+	padding:10px 0 0 0;
+	line-height:0;
+	}
+
+#menu ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#menu li{
+	text-align:right;
+	margin:0;
+	line-height:10px;
+	}
+
+#menu li a{
+	color:#000;
+	text-decoration:none;
+	font-size:x-small;
+	line-height:120%;
+	}
+
+#menu li.active a{
+	font-weight:bolder;
+	border-top:2px #000 solid;
+	font-size:small;
+	color:#000;
+	}
+
+#menu li a:hover {
+	color: #000;
+	border-top: 1px solid #000;
+}
+
+#menu li.active a:hover{
+	border-top:2px #000 solid;
+}
+
+#newscolumn{
+	position:absolute;
+	left:10%;
+	top:180px;
+	z-index:4;
+	margin:0;
+	padding-bottom:4px;
+	padding-left:8px;
+	border-bottom:4px #fff solid;
+	width:200px;
+	}
+
+#news{
+	overflow:auto;
+	padding:10px;
+	height:430px;
+	background-color:#444;
+	}
+
+#news p{
+	color:#fff;
+	font-size:11px;
+	line-height:13px;
+	margin-top:0px;
+	margin-bottom:10px;
+	}
+
+#news h2{
+	font-size:small;
+	font-weight:bold;
+	color:#fff;
+	padding:0;
+	margin:0;
+	}
+
+#rightcol{
+	margin-left:300px;
+	width:auto;
+}
+
+h1.callout{
+	text-transform:uppercase;
+	font-size:x-large;
+	text-align:right;
+	line-height:100%;
+	color:#fff;
+	margin:0 0 20px 0;
+	padding:0;
+}
+
+h1.callout .emphasis{
+	color:#39c;
+	}
+
+#rightcol img{
+	border:4px #fff solid;
+	margin:0 5px 10px 0;
+	width:152px;
+	height:75px;
+	float:left;
+	}
+
+#rightcol p{
+	margin:0;
+	padding:0 10px 0 10px;
+	font-size:small;
+	color:#fff;
+
+}
+
+#rightcol .piece{
+	clear:left;
+	width:auto;
+	margin:0 0 0 0;
+	}
+

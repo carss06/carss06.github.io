@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="filenamerules" version="1.0">
+	<attributes>
+		<attribute name="customized" value="no"/>
+		<object name="globalrule">
+			<attribute name="creator" value="1"/>
+			<attribute name="descriptionU" value="A combination of Mac OS, Unix, and Windows 98/NT  filename rules."/>
+			<attribute name="descriptionw" value="A%20combination%20of%20Mac%20OS,%20Unix,%20and%20Windows%2098/NT%20%20filename%20rules."/>
+			<attribute name="maxextlength" value="0"/>
+			<attribute name="maxlength" value="256"/>
+			<attribute name="modifier" value="1"/>
+			<attribute name="nameU" value="GoLive Standard"/>
+			<attribute name="namew" value="GoLive%20Standard"/>
+			<attribute name="regexpU" value='[^\\/:*\?"<>|.]+[^\\/:*\?"<>|]*'/>
+			<attribute name="regexpw" value="%5b%5e%5c%5c/:*%5c?%26quot;%26lt;%26gt;%7c.%5d+%5b%5e%5c%5c/:*%5c?%26quot;%26lt;%26gt;%7c%5d*"/>
+			<attribute name="type" value="1"/>
+			<attribute name="version" value="1"/>
+		</object>
+		<attribute name="useSiteSettings" value="yes"/>
+	</attributes>
+</sitesettings>

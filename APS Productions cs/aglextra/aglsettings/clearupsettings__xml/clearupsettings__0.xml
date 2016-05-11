@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="clearup" version="1.0">
+	<attributes>
+		<attribute name="addColors" value="yes"/>
+		<attribute name="addExternals" value="yes"/>
+		<attribute name="addFiles" value="yes"/>
+		<attribute name="addFontsets" value="yes"/>
+		<attribute name="removeColors" value="no"/>
+		<attribute name="removeExternals" value="no"/>
+		<attribute name="removeFiles" value="no"/>
+		<attribute name="removeFontsets" value="no"/>
+		<attribute name="rescanRoot" value="yes"/>
+		<attribute name="showAddList" value="yes"/>
+		<attribute name="showDialog" value="yes"/>
+		<attribute name="showRemoveList" value="yes"/>
+		<attribute name="useSiteSettings" value="yes"/>
+	</attributes>
+</sitesettings>

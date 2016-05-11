@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="status" version="1.0">
+	<attributes>
+		<list name="statuslist"/>
+		<attribute name="useSiteSettings" value="yes"/>
+		<attribute name="version" value="1"/>
+	</attributes>
+</sitesettings>

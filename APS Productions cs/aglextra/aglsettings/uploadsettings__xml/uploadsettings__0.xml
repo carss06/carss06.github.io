@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="upload" version="1.0">
+	<attributes>
+		<attribute name="flattenScriptLib" value="no"/>
+		<attribute name="hierarchy" value="0"/>
+		<attribute name="honorPublishGroups" value="yes"/>
+		<attribute name="honorPublishPages" value="yes"/>
+		<attribute name="mediaFolder" value="Media"/>
+		<attribute name="mediaFolderPath" value="Media"/>
+		<attribute name="otherFolder" value="Other"/>
+		<attribute name="otherFolderPath" value="Other"/>
+		<attribute name="pagesFolder" value="Pages"/>
+		<attribute name="pagesFolderPath" value="Pages"/>
+		<attribute name="publishOnlyReferenced" value="no"/>
+		<attribute name="publishOrphan" value="no"/>
+		<attribute name="reWritePDFFiles" value="yes"/>
+		<attribute name="showDialog" value="yes"/>
+		<attribute name="stripAglCssComments" value="no"/>
+		<attribute name="stripAglCssFolder" value="no"/>
+		<attribute name="stripAglCssProperties" value="no"/>
+		<attribute name="stripComments" value="no"/>
+		<attribute name="stripMediaFiles" value="yes"/>
+		<attribute name="stripSpaces" value="no"/>
+		<attribute name="stripSpecial" value="no"/>
+		<attribute name="useSiteSettings" value="yes"/>
+		<attribute name="version" value="5"/>
+	</attributes>
+</sitesettings>
